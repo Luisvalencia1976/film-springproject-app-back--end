@@ -6,7 +6,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//creando entidades
 @Entity
 @Table(name = "gender")
 public class Gender implements Serializable{
